@@ -62,7 +62,7 @@ I'm sip-Userbot Bryan.
 
 ---
 
-I'm Nathaell Bryan, a freshman at THU.
+I'm Nandee || Bryan, a freshman at THU.
 
 -   :hammer_and_pick: Javascript / Dart / C++
 -   :pencil2: Ubuntu
@@ -138,7 +138,7 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 <!-- GitHub Readme Streak Stats - https://github.com/sip-Userbotdev/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/sip-Userbot/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nathdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathdev&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sip-Userbotdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathdev&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
