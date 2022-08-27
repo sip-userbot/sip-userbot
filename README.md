@@ -144,7 +144,7 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 </p>
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nathdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nathdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sipdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sipdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 # My App 
 <details>
