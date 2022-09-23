@@ -58,7 +58,7 @@ I'm sip-Userbot Bryan.
 </p>
 <br>
 
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sip-Userbotdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
 
 ---
 
@@ -134,8 +134,8 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 ---
 ## 🔥 Streak stats
-<p align="center"><a href="https://github.com/AyiinXd"><img src="https://github-readme-stats.vercel.app/api?username=AyiinXd&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/AyiinXd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyiinXd&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/sip-Userbot"><img src="https://github-readme-stats.vercel.app/api?username=sip-Userbot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/sip-Userbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sip-Userbot&theme=radical&layout=compact"></a></p> 
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sipdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sipdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -155,5 +155,12 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 ![](https://github.com/sip-Userbot/Nandedev/blob/main/flutter/nft_simple_app/2.png)
 
 </details>
+
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Klyuserbot) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/suportsipuserbot) 
+<br>
+
+<p>
+    <a href="https://instagram.com/kanjeng_47" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 
 ## 📺 Latest YouTube videos
