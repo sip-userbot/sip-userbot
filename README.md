@@ -117,7 +117,7 @@ Here are some of my demo projects to convince you
 
 ## Thropy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nandedev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sip-Userbotdev)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 
 ## Funding
 
