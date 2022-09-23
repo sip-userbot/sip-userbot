@@ -115,10 +115,6 @@ Here are some of my demo projects to convince you
 - [how to install flutter on google cloud shell service along with app build](https://dev.to/nathdev/how-to-install-flutter-on-google-cloud-shell-service-along-with-app-build-5eii)
 <!-- BLOG-POST-LIST:END -->
 
-## Thropy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sip-Userbotdev)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- 
 ## Funding
 
 Support saya untuk mengembangkan project saya yang di github / menyemangatin saya dalam koding.
