@@ -82,10 +82,10 @@ I'm Nandee || Bryan, a freshman at THU.
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/nathdev)
 ![](https://custom-icon-badges.herokuapp.com/github/followers/nathdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
 [![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_exone.1/)
-[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nathdev/)
+[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sipdev/)
 [![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Klyuserbot)
 [![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://sipdev.com/)
-[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathxe)
+[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sipdev)
 [![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sipdev)
 [![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/sipdev) -->
 ---
@@ -134,14 +134,8 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 ---
 ## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/sip-Userbotdev/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/sip-Userbot/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sip-Userbotdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathdev&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+<p align="center"><a href="https://github.com/AyiinXd"><img src="https://github-readme-stats.vercel.app/api?username=AyiinXd&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/AyiinXd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyiinXd&theme=radical&layout=compact"></a></p> 
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sipdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sipdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
