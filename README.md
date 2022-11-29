@@ -57,8 +57,7 @@ I'm sip-Userbot Bryan.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Shell-script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-</p>[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sip-Userbotdev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
-
+</p>
 <br>
 
 ---
