@@ -160,3 +160,10 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
     <a href="https://instagram.com/kanjeng_47" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 
 ## 📺 Latest YouTube videos
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sip-userbot&label=Profile%20views&color=0e75b6&style=plastic" alt="sip-userbot" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sip-userbot&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sip-userbot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sip-userbot&show_icons=true&theme=tokyonight&locale=en" alt="sip-userbot" /></p>
+
