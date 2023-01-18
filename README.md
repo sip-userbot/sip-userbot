@@ -129,7 +129,7 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 ---
 ## 🔥 Streak stats
-<p align="center"><a href="https://github.com/sip-userbot"><img src="https://github-readme-stats.vercel.app/api?username=sip-Userbot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/sip-userbot"><img src="https://github-readme-stats.vercel.app/api?username=sip-userbot&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/sip-userbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sip-userbot&theme=radical&layout=compact"></a></p> 
 
 # My App 
